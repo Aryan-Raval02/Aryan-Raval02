@@ -6,9 +6,9 @@
 ## 🧑‍💻 About Me
 
 I am a passionate **Java Full Stack Developer** with strong core knowledge of Java and hands-on experience in backend technologies.  
-I have worked with **Spring Boot**, **Spring Framework**, **Spring REST**, **Spring Security**, **Spring MVC**, and tools like **Maven**, **Servlet**, **JDBC**, **JPA**, and **Hibernate** to build scalable and efficient applications.  
+I have worked with **Spring Framework** and tools like **JDBC**, **JPA**, and **Hibernate** to build scalable and efficient applications.  
 
-I also enjoy mobile app development and have created Android applications, alongside building interactive frontends using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **TypeScript**, and **jQuery**.  
+I also enjoy mobile app development and have created **Android applications**, alongside building interactive frontends. Also interest in **Ethical Hacking**.
 
 Currently, I am deepening my expertise in **Spring ecosystem** and backend architecture while sharpening my database skills in **MySQL** and **Oracle SQL**.  
 
@@ -17,9 +17,7 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
 
