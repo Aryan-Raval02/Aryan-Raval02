@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Boss</h1>
+<h1 align="left">Hi 👋, Aryan Raval</h1>
 <h3 align="left">Java Full Stack Developer | Android Developer | Tech Enthusiast</h3>
 
 ---
