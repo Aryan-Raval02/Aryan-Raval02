@@ -17,7 +17,7 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourprofile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-raval-407858373/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/aryanraval299_/)
 
 ---
 
@@ -37,17 +37,5 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 
 **Mobile Development:**  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Aryan-Raval02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Raval02&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raval02&theme=dark&hide_border=false&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Aryan-Raval02&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
