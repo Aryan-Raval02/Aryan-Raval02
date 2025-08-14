@@ -29,18 +29,8 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 **Frontend :**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
-
 **Backend :**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)  
-![Spring Framework](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%235C4C3F.svg?logo=hibernate&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-%2300f.svg?logoColor=white)  
-![Servlet](https://img.shields.io/badge/Servlet-%2300f.svg?logoColor=white)  
-![JDBC](https://img.shields.io/badge/JDBC-%2300f.svg?logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white) ![Spring REST APIs](https://img.shields.io/badge/Spring%20REST%20APIs-%236DB33F.svg?logo=spring&logoColor=white) ![REST API Security](https://img.shields.io/badge/REST%20API%20Security-%23FF6F00.svg?logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?logo=thymeleaf&logoColor=white)
 
 **Mobile Development:**  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white)  
