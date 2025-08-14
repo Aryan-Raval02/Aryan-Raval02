@@ -41,13 +41,13 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=YourUserName&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&theme=dark&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Aryan-Raval02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Raval02&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raval02&theme=dark&hide_border=false&layout=compact)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=YourUserName&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=Aryan-Raval02&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
