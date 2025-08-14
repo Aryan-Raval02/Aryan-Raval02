@@ -23,10 +23,14 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 
 ## 💻 Tech Stack  
 
-**Core Concepts:**  
+**Core Concepts :**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![OOPs](https://img.shields.io/badge/OOPs-%2300f.svg?logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%2300f.svg?logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-%23512BD4.svg?logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?logo=dotnet&logoColor=white) ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-%2300f.svg?logoColor=white)
 
-**Backend:**  
+**Frontend :**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
+
+
+**Backend :**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)  
 ![Spring Framework](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)  
@@ -37,15 +41,6 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)  
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)  
 
 **Mobile Development:**  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white)  
