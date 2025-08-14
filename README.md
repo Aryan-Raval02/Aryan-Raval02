@@ -23,6 +23,9 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 
 ## 💻 Tech Stack  
 
+**Core Concepts:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![OOPs](https://img.shields.io/badge/OOPs-%2300f.svg?logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%2300f.svg?logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-%23512BD4.svg?logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?logo=dotnet&logoColor=white) ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-%2300f.svg?logoColor=white)
+
 **Backend:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)  
