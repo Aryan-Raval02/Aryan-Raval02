@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, Aryan Raval</h1>
-<h3 align="left">Java Full Stack Developer | Android Developer | Tech Enthusiast</h3>
+<h3 align="left">Backend Developer | Android Developer | Tech Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Java Full Stack Developer** with strong core knowledge of Java and hands-on experience in backend technologies.  
+I am a passionate **Backend Developer** with strong core knowledge of Java and hands-on experience in backend technologies.  
 I have worked with **Spring Framework** and tools like **JDBC**, **JPA**, and **Hibernate** to build scalable and efficient applications.  
 
 I also enjoy mobile app development and have created **Android applications**, alongside building interactive frontends. Also interest in **Ethical Hacking**.
