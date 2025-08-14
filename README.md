@@ -3,13 +3,16 @@
 
 ---
 
-## 🚀 About Me  
-- 💻 Core knowledge in **Java** and Backend Development  
-- 🌱 Currently learning: **Spring Boot**, **Spring Framework**, **Spring REST**, **Spring Security**, **Spring MVC**  
-- 🛠 Experienced with **Maven**, **Servlet**, **JDBC**, **JPA**, **Hibernate**, **SQL**, **MySQL**, **Oracle SQL**, **GitHub**  
-- 📱 Also an **Android Developer**  
-- 🎨 Skilled in Frontend: **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **jQuery**, **JavaScript**, **TypeScript**  
-- 🎯 Passionate about building scalable backend systems, interactive frontends, and mobile applications  
+## 🧑‍💻 About Me
+
+I am a passionate **Java Full Stack Developer** with strong core knowledge of Java and hands-on experience in backend technologies.  
+I have worked with **Spring Boot**, **Spring Framework**, **Spring REST**, **Spring Security**, **Spring MVC**, and tools like **Maven**, **Servlet**, **JDBC**, **JPA**, and **Hibernate** to build scalable and efficient applications.  
+
+I also enjoy mobile app development and have created Android applications, alongside building interactive frontends using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **TypeScript**, and **jQuery**.  
+
+Currently, I am deepening my expertise in **Spring ecosystem** and backend architecture while sharpening my database skills in **MySQL** and **Oracle SQL**.  
+
+🎯 **Goal:** To become a highly skilled **Backend Developer** capable of designing, building, and deploying enterprise-level applications, and to contribute to impactful, real-world projects that make a difference.  
 
 ---
 
