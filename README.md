@@ -38,10 +38,6 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 **Mobile Development:**  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white)  
 
-**Version Control:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
-
 ---
 
 ## 📊 GitHub Stats  
