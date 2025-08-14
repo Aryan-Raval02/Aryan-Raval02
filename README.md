@@ -32,6 +32,9 @@ Currently, I am deepening my expertise in **Spring ecosystem** and backend archi
 **Backend :**  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white) ![Spring REST APIs](https://img.shields.io/badge/Spring%20REST%20APIs-%236DB33F.svg?logo=spring&logoColor=white) ![REST API Security](https://img.shields.io/badge/REST%20API%20Security-%23FF6F00.svg?logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?logo=thymeleaf&logoColor=white)
 
+**Tools & Technologies:**  
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white) ![Servlet](https://img.shields.io/badge/Servlet-%23000000.svg?logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black)
+
 **Mobile Development:**  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white)  
 
