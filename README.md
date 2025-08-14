@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Boss</h1>
-<h3 align="center">Java Full Stack Developer | Android Developer | Tech Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Boss</h1>
+<h3 align="left">Java Full Stack Developer | Android Developer | Tech Enthusiast</h3>
 
 ---
 
